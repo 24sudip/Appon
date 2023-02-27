@@ -1,0 +1,191 @@
+@media (max-width: 575.98px) {
+   
+    .menu_bg button{
+        border: 2px solid #fff;
+    }
+    .menu_bg button i{
+        color: #fff !important;
+    }
+    .navbar-toggler:focus {
+        box-shadow: 0 0 0 transparent;
+    }
+    .navbar-nav {
+        text-align: center;
+    }
+    .menu_bg ul li a::after{
+        left: 50%;
+        transform: translateX(-50%);
+    }
+    h2::after,
+    h2::before,
+    .about_icon::after,
+    .about_icon::before{
+        display: none;
+    }
+    .about_head p{
+        width: auto;
+        margin-left: 0;
+    }
+}
+@media (min-width: 576px) and (max-width: 767.98px) {
+    .menu_bg button{
+        border: 2px solid #fff;
+    }
+    .menu_bg button i{
+        color: #fff !important;
+    }
+    .navbar-toggler:focus {
+        box-shadow: 0 0 0 transparent;
+    }
+    .navbar-nav {
+        text-align: center;
+    }
+    .menu_bg ul li a::after{
+        left: 50%;
+        transform: translateX(-50%);
+    }
+    h2::after,
+    h2::before,
+    .about_icon::after,
+    .about_icon::before,
+    .video_head_icon::after,
+    .video_head_icon::before,
+    .plan_icon::after,
+    .plan_icon::before,
+    .team_icon::after,
+    .team_icon::before,
+    .form_icon::after,
+    .form_icon::before{
+        display: none;
+    }
+    .about_head p{
+        width: auto;
+        margin-left: 0;
+    }
+}
+@media (min-width: 768px) and (max-width: 991.98px) {
+    .menu_bg button{
+        border: 2px solid #fff;
+    }
+    .menu_bg button i{
+        color: #fff !important;
+    }
+    .navbar-toggler:focus {
+        box-shadow: 0 0 0 transparent;
+    }
+    .navbar-nav {
+        text-align: center;
+    }
+    .menu_bg ul li a::after{
+        left: 50%;
+        transform: translateX(-50%);
+    }
+    h2::after,
+    h2::before,
+    .about_icon::after,
+    .about_icon::before,
+    .video_head_icon::after,
+    .video_head_icon::before,
+    .plan_icon::after,
+    .plan_icon::before,
+    .team_icon::after,
+    .team_icon::before,
+    .form_icon::after,
+    .form_icon::before{
+        display: none;
+    }
+    .about_head p{
+        width: auto;
+        margin-left: 0;
+    }
+    .about_head h2{
+        padding-top: 0;
+    }
+    .team_last{
+        display: none;
+    }
+    .team_inner:hover .team_text{
+        bottom: -210px;
+    }
+}
+@media (min-width: 992px) and (max-width: 1199.98px) {
+    h2::after,
+    h2::before,
+    .about_icon::after,
+    .about_icon::before,
+    .video_head_icon::after,
+    .video_head_icon::before,
+    .plan_icon::after,
+    .plan_icon::before,
+    .team_icon::after,
+    .team_icon::before,
+    .form_icon::after,
+    .form_icon::before,
+    .feature_head_icon::after,
+    .feature_head_icon::before,
+    .screenshot_icon::after,
+    .screenshot_icon::before,
+    .feedback_icon::after,
+    .feedback_icon::before{
+        display: none;
+    }
+    .about_head p{
+        width: auto;
+        margin-left: 0;
+    }
+    .about_head h2{
+        padding-top: 50px;
+    }
+    .feature_text p{
+        width: auto;
+    }
+    .feature_text h5{
+        padding-top: 130px;
+    }
+    #screenshot .screenshot_item{
+        width: 90% !important;
+        object-fit: cover;
+        overflow: hidden;
+        height: 272px !important;
+    }
+    .team_inner:hover .team_text{
+        bottom: -230px;
+    }
+}
+@media (min-width: 1200px) and (max-width: 1399.98px) {
+    h2::after,
+    h2::before,
+    .about_icon::after,
+    .about_icon::before,
+    .video_head_icon::after,
+    .video_head_icon::before,
+    .plan_icon::after,
+    .plan_icon::before,
+    .team_icon::after,
+    .team_icon::before,
+    .form_icon::after,
+    .form_icon::before,
+    .feature_head_icon::after,
+    .feature_head_icon::before,
+    .screenshot_icon::after,
+    .screenshot_icon::before,
+    .feedback_icon::after,
+    .feedback_icon::before{
+        display: none;
+    }
+    .feature_text h5{
+        padding-top: 100px;
+    }
+    #screenshot .screenshot_item{
+        width: 90% !important;
+        object-fit: cover;
+        overflow: hidden;
+        height: 322px !important;
+    }
+    .team_inner:hover .team_text{
+        bottom: -190px;
+    }
+}
+@media (min-width: 1400px) {
+   
+}
